@@ -4,9 +4,8 @@
 	"description": "Hides the ugly chat on the already ugly site.",
 	"content_scripts":[
 		{
-			"matches": ["http://www.themagiccafe.com/*"],
-			"css": ["TMC-sansChat.css"],
-			"run_at": "document_end"
+			"matches": ["http://www.themagiccafe.com/*", "http://themagiccafe.com/*"],
+			"css": ["TMC-sansChat.css"]
 		}
 	]
 }
