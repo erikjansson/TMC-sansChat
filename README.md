@@ -10,7 +10,7 @@ So, The Magic Café is ugly. To make things worse, they also overlay part of the
 
 ## Installation
 
-Download and install the TMC-sansChat.crx file up there. Easiest way is to click it, and then click "View Raw". 
+Download and install the TMC-sansChat.crx file up there. Easiest way is to click it, and then click "View Raw".  
 It will then download and ask you to install it.
 
 You're welcome.
